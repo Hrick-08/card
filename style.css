@@ -38,8 +38,12 @@ p {
 .read {
     border: 2px solid rgb(176, 204, 255);
     border-radius: 25px;
-    color: blue;
+    color: rgb(67, 67, 247);
     background-color: rgb(176, 204, 255);
     box-shadow: 0px 0px 0px 0px #7c7b7b;
     font-weight: 600;
+}
+
+a{
+    text-decoration: none;
 }
